@@ -6,7 +6,7 @@ These SQL queries function as template designed to be used in conjunction with .
 
 <h2>Potential users</h2>
 
-- <b>Sustainable finance firms</b> 
+- <b>Green bond issuers</b> 
 - <b>Ecology researchers</b> 
 - <b>Conservation agencies</b>
 
