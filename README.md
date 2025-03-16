@@ -1,2 +1,2 @@
 # A-template-for-analyzing-bird-species-distribution
-The SQL queries function as a template designed to be used in conjunction with a .csv dataset template similar to "NCRN Bird Monitoring Data 2007 - 2017" dataset (data.gov). They enable researchers to identify avian diversity hotspots, track seasonal variations in species abundance, and evaluate the impact of habitat changes on bird distributions. 
+These SQL queries function as a template designed to be used in conjunction with a .csv dataset template similar to "NCRN Bird Monitoring Data 2007 - 2017" dataset (data.gov). They enable researchers to identify avian diversity hotspots, track seasonal variations in species abundance, and evaluate the impact of habitat changes on bird distributions. 
