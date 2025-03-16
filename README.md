@@ -15,13 +15,11 @@ These SQL queries function as template designed to be used in conjunction with .
 - <b>Download the "NCRN Bird Monitoring Data 2007 - 2017" dataset and use as data recording template</b>
 - <b>Use the SQL queries wchich I provided below for your insight</b> 
 
-<h2>Program walk-through:</h2>
+<h2>SQL queries (Please note: best viewed under code section)</h2>
+
 --To count the total number bird species:
 SELECT COUNT(DISTINCT Scientific_Name) AS Species_Count
 FROM ANTI
-
-<h2>SQL queries</h2>
-
 --To identify the location types:
 SELECT DISTINCT Location_type from ANTI
 
