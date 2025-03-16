@@ -155,23 +155,6 @@ FROM ANTI
 WHERE Sex = 'Male' AND Location_Type = 'Grassland'
 ORDER BY MostSighted_Male_Grassland DESC
 
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-
 <!--
  ```diff
 - text in red
@@ -181,6 +164,3 @@ Observe the wiped disk:  <br/>
 @@ text in purple (and bold)@@
 ```
 --!>
-
-# A-template-for-analyzing-bird-species-distribution
-These SQL queries function as template designed to be used in conjunction with a .csv dataset template similar to "NCRN Bird Monitoring Data 2007 - 2017" dataset (data.gov). They enable researchers to identify avian diversity hotspots, track seasonal variations in species abundance, and evaluate the impact of habitat changes on bird distributions. 
